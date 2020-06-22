@@ -100,8 +100,6 @@ class Solution {
 - 若整个图 DFS 结束并未发现环，返回 TrueTrue。
 
 
-
-
 ```
 class Solution {
       public boolean canFinish(int numCourses, int[][] prerequisites) {
